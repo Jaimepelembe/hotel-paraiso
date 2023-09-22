@@ -1,0 +1,57 @@
+/*Reset*/
+h1 {
+  font-size: 32px;
+}
+h2 {
+  font-size: 28px;
+}
+h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+h4 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+/*End Reset*/
+
+#navigation_header ul {
+  flex-direction: row;
+}
+
+#element_home {
+  margin-left: 0px;
+}
+#element_contact {
+  margin-right: 0px;
+}
+
+.btn_icon_header {
+  display: none;
+}
+
+.paragraph {
+  font-size: 18px;
+}
+
+/*Section hero*/
+
+/*End hero*/
+
+/*Characteristics*/
+.symbol {
+  width: 32px;
+  height: 32px;
+}
+/*End Characteristics*/
+
+/*Footer*/
+svg {
+  width: 32px;
+  height: 32px;
+  color: var(--color-black);
+}
+
+/*End Footer*/
